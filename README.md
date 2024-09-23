@@ -7,9 +7,13 @@
 ## Tutor dari Maouam ( Founder Maouam's Node Labs )
 
 
+Masuk ke user root
+```
+sudo su
+```
 Update paket
 ```
-sudo su && apt update
+apt update
 ```
 Install docker jika blm install
 ```
